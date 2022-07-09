@@ -10,5 +10,3 @@ def is_isogram(string):
         else:
             return False
     return True
-
-print(is_isogram("Emily Jung Schwartzkopf"))
