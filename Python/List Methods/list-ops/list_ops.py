@@ -14,15 +14,23 @@ def concat(lists):
 
 
 def filter(function, list):
-    pass
+    lista = []
+    for i in list:
+        if function(i):
+            lista.append(i)
+    return lista
 
 
 def length(list):
-    pass
+    cant = len(list)
+    return cant
 
 
 def map(function, list):
-    pass
+    lista = []
+    for i in list:
+        lista.append(function(i))
+    return lista
 
 
 def foldl(function, list, initial):
@@ -36,4 +44,4 @@ def foldr(function, list, initial):
 def reverse(list):
     pass
 
-print((concat([[1, 2], [3], [], [4, 5, 6]]), [1, 2, 3, 4, 5, 6]))
+print(filter(lambda x: x % 2 == 1, []))
