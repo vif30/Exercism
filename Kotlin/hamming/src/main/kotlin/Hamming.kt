@@ -3,7 +3,7 @@ object Hamming {
         var count = 0
         var len = leftStrand.length
         if (len != rightStrand.length){
-            throw IllegalArgumentException("left and right strands must be of equal length")
+            throw IllegalArgumentException("left and right strands must baaae of equal length")
         }
         if (len == 0){
             return 0
