@@ -26,11 +26,9 @@ def label(colors):
     j = 0
     for j in range(value[2]):
         ohms += "0"
+    lenght = len(ohms)
     if ohms[len(ohms)-1] == "0" and ohms[len(ohms)-2] == "0" and ohms[len(ohms)-3] == "0":
-        for k in ohms:
-            if k != "0":
-                kiloohms += k
-        return kiloohms + " kiloohms"
+        return ohms[0:lenght-3] + " kiloohms"
     return ohms + " ohms"
 
 print(label(["yellow", "violet", "yellow"]))

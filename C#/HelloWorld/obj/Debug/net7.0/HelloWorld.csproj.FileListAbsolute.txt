@@ -1,0 +1,15 @@
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/bin/Debug/net7.0/HelloWorld
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/home/vicente/Documentos/GitHub/Exercism/C#/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
