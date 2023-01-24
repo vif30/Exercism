@@ -1,0 +1,5 @@
+/home/vicente/Documentos/GitHub/Exercism/C#/Strings/log-levels/obj/Debug/net7.0/LogLevels.csproj.AssemblyReference.cache
+/home/vicente/Documentos/GitHub/Exercism/C#/Strings/log-levels/obj/Debug/net7.0/LogLevels.GeneratedMSBuildEditorConfig.editorconfig
+/home/vicente/Documentos/GitHub/Exercism/C#/Strings/log-levels/obj/Debug/net7.0/LogLevels.AssemblyInfoInputs.cache
+/home/vicente/Documentos/GitHub/Exercism/C#/Strings/log-levels/obj/Debug/net7.0/LogLevels.AssemblyInfo.cs
+/home/vicente/Documentos/GitHub/Exercism/C#/Strings/log-levels/obj/Debug/net7.0/LogLevels.csproj.CoreCompileInputs.cache
